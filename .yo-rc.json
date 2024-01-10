@@ -1,0 +1,23 @@
+{
+  "generator-template-ui5-project": {
+    "projectname": "userapi",
+    "namespaceUI5": "demo",
+    "enableFPM": false,
+    "platform": "SAP Launchpad service",
+    "viewtype": "JS",
+    "ui5libs": "Content delivery network (SAPUI5)",
+    "newdir": true,
+    "initrepo": true,
+    "namespaceURI": "demo",
+    "uimodules": [
+      "uimodule"
+    ],
+    "opa5Journeys": [
+      "Main"
+    ],
+    "opa5pos": [
+      "Main"
+    ],
+    "setupCompleted": true
+  }
+}
